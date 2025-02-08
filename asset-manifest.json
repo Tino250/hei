@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/hei/static/css/main.95b9befd.css",
+    "main.js": "/hei/static/js/main.4530e2fb.js",
+    "static/media/IMG_2696.jpg": "/hei/static/media/IMG_2696.b4ad3bd39b108fa34626.jpg",
+    "static/media/25 (2).png": "/hei/static/media/25 (2).5580165ff98b561a4037.png",
+    "static/media/IMG_2763.jpg": "/hei/static/media/IMG_2763.2279bdc6dd5aa8d3d7ea.jpg",
+    "static/media/IMG_2764.jpg": "/hei/static/media/IMG_2764.e019141ddaf80d8c412d.jpg",
+    "static/media/IMG_2771.jpg": "/hei/static/media/IMG_2771.70763001ce70eec72507.jpg",
+    "static/media/pfpH.png": "/hei/static/media/pfpH.3af251337a3f5d116b43.png",
+    "static/media/Image Background Orange Minimal Phone Wallpaper (1).png": "/hei/static/media/Image Background Orange Minimal Phone Wallpaper (1).911a9bb196f058c9237b.png",
+    "static/media/B.png": "/hei/static/media/B.0af1bcce8ad26a0b9122.png",
+    "static/media/30.png": "/hei/static/media/30.0eeb807fdb3f004d3292.png",
+    "static/media/pfpB.png": "/hei/static/media/pfpB.d1802e358f6a4ba735bd.png",
+    "static/media/H.png": "/hei/static/media/H.dc545f0303583c23b43a.png",
+    "static/media/14.png": "/hei/static/media/14.cd8d595450dd01236d4c.png",
+    "static/media/12.png": "/hei/static/media/12.7aa33ebd87282a8c0f19.png",
+    "static/media/mixkit-fairy-magic-sparkle-871.wav": "/hei/static/media/mixkit-fairy-magic-sparkle-871.aee91c20bbd834f8dfc9.wav",
+    "static/media/rose-6870_512.gif": "/hei/static/media/rose-6870_512.98e67ce1e3312435cc2b.gif",
+    "static/media/hard.wav": "/hei/static/media/hard.90329493ac50795f809f.wav",
+    "static/media/pop.wav": "/hei/static/media/pop.6aff7d5099e297b49a7d.wav",
+    "static/media/Taketones_CartoonVoice I Love You.wav": "/hei/static/media/Taketones_CartoonVoice I Love You.299ffa93743532136b9d.wav",
+    "static/media/logo.png": "/hei/static/media/logo.98825988b22827206de0.png",
+    "index.html": "/hei/index.html",
+    "main.95b9befd.css.map": "/hei/static/css/main.95b9befd.css.map",
+    "main.4530e2fb.js.map": "/hei/static/js/main.4530e2fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95b9befd.css",
+    "static/js/main.4530e2fb.js"
+  ]
+}
