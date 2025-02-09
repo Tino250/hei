@@ -37,7 +37,7 @@ function playAudioHard(){
   }
 
   function home(){
-    window.location.href="/"
+    window.location.href="/hei"
   }
   return (
 
